@@ -1,0 +1,32 @@
+.NavigationBar {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+   .NavigationBar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media screen and (max-width:1200px) {
+    .NavigationBar {
+      position: static;
+      transform: none;
+      padding-top: 0;
+    }
+
+    .NavigationBar ul{
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+    }
+
+  }
+
+

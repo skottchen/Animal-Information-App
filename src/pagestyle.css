@@ -1,0 +1,27 @@
+.text{
+    padding-bottom: 12cm;
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    top: 5cm;
+    margin-left: 2.5cm;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    margin-top: 5cm;
+    margin-left: 15cm;
+}
+
+@media screen and (max-width:1200px) {
+    .text{
+        top: 10cm;
+        margin-left: 0cm;
+    }
+
+    img{
+        margin-top: 3cm;
+        margin-left: 0cm;
+    }
+}

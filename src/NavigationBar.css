@@ -1,6 +1,6 @@
 .NavigationBar {
     position: absolute;
-    top: 0;
+    top: 1cm;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -8,7 +8,7 @@
    .NavigationBar ul {
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
     list-style: none;
     padding: 0;
     margin: 0;

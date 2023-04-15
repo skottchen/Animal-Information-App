@@ -13,8 +13,7 @@ const navItems: NavItem[] = [
   { label: "Random Cat Facts", link: "/cat-facts" },
   { label: "Random Dog Facts", link: "/dog-facts" },
   { label: "Random Dog Pictures", link: "/dog-pictures" },
-  { label: "Random Cat Pictures", link: "/cat-pictures" },
-  { label: "Random Facts and Pictures of Zoo Animals", link: "/zoo-facts-and-pictures" },
+  { label: "Random Cat Pictures", link: "/cat-pictures" }
 ];
 
 const useStyles = makeStyles((theme) => ({

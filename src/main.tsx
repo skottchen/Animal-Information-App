@@ -4,7 +4,6 @@ import RandomCatFacts from './Pages/RandomCatFacts'
 import RandomDogFacts from './Pages/RandomDogFacts'
 import RandomDogPictures from './Pages/RandomDogPictures'
 import RandomCatPictures from './Pages/RandomCatPictures'
-import RandomFactsPicturesZooAnimals from './Pages/RandomFactsPicsZooAnimals'
 import './pagestyle.css'
 
 import {
@@ -22,7 +21,6 @@ ReactDOM.render(
           <Route path="/dog-facts" element={<RandomDogFacts/>} />
           <Route path="/dog-pictures" element={<RandomDogPictures/>} />
           <Route path="/cat-pictures" element={<RandomCatPictures/>} />
-          <Route path="/zoo-facts-and-pictures" element={<RandomFactsPicturesZooAnimals/>} />
         </Routes>
       </BrowserRouter>,
   document.getElementById('root')

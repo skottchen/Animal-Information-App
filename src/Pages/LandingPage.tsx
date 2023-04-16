@@ -9,7 +9,7 @@ function LandingPage() {
     <div className="text">
       <h1>Animal Pictures and Facts Web App Home Page</h1>
       <p>Refresh each page or click the page button
-        to display random facts and pictures about cats, dogs, and zoo animals!</p>
+        to display random facts and pictures about cats and dogs!</p>
     </div>
   </div>
   );

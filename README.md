@@ -1,6 +1,6 @@
 # Cat-Dogs-Facts-and-Pictures-App
 A React app with Typescript that uses GET requests to display random facts and pictures of cats and dogs. <br>
-Can be implemented by beginners to React. 
+Can be implemented by beginners to React who are familiar with HTML and CSS. 
 
 To run:
 1. Import the code into VSCode (or any code editor of your choice) <br>

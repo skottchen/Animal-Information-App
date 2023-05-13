@@ -1,4 +1,4 @@
-# Cat-Dogs-Facts-and-Pictures-App
+# Animal Information App
 A React app with Typescript that uses GET requests to display random facts and pictures of cats and dogs. <br>
 
 To run:
